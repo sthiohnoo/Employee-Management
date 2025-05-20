@@ -49,6 +49,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "EntityFramework.de": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -96,7 +110,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Dateien\\Coding\\Web_Development\\EmployeeManagementSolution\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Dateien\\Coding\\Web_Development\\EmployeeManagementSolution\\BaseLibrary\\BaseLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

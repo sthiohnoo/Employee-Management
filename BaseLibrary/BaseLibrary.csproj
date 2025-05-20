@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Responses\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="EntityFramework" Version="5.0.0" />
+    <PackageReference Include="EntityFramework.de" Version="5.0.0" />
+  </ItemGroup>
+
 </Project>
