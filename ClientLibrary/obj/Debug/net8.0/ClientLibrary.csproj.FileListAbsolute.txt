@@ -1,0 +1,12 @@
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.sourcelink.json
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+C:\Dateien\Coding\Web_Development\EmployeeManagementSolution\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
